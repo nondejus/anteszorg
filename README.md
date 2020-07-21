@@ -1,2 +1,0 @@
-# anteszorg
-bouman doctrine
